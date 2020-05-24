@@ -1,0 +1,10 @@
+CCA;1
+>Ejemplo que no tiene info real...
+ACA;1;1
+CAA;1;1
+CCG;1;1
+CCT;1;2
+CCG;1;2
+CCC;1;2
+CCT;1;2
+CTA;1;2
